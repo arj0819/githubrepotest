@@ -6,3 +6,4 @@ test it out. Here's another change.
 A new change.
 Here's a change from a clone of the github repo.
 Yet another change.
+Here's a hotfix!
